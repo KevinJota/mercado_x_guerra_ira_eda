@@ -1,6 +1,6 @@
 # EDA — Mercado Brasileiro e Conflito Irã-EUA
 
-🚧 **Projeto em desenvolvimento**
+**Projeto em desenvolvimento**
 
 Olá, Esse projeto consiste em uma **Análise Exploratória de Dados (EDA)** que busca relacionar acontecimentos e ações de Donald Trump durante o conflito entre Irã e Estados Unidos com movimentos do mercado financeiro brasileiro.
 
@@ -29,5 +29,5 @@ Os gráficos e resultados apresentados serão derivados dos dados utilizados dur
 
 ## Status
 
-🚧 **Em desenvolvimento/ Incompleto**
+**Em desenvolvimento/ Incompleto**
 
